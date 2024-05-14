@@ -10,6 +10,7 @@ const axios = require("axios");
 const express = require("express");
 const fs = require("fs");
 const cors = require("cors");
+const { createAdapter } = require("@socket.io/redis-adapter");
 
 //require("console-stamp")(console, "[HH:MM:ss.l]");
 //const morgan = require("morgan");
@@ -128,28 +129,6 @@ global.store = {
     gitlab_private_access_token: gitlab_private_access_token,
 };
 
-async function getValuesWithPattern(key) {
-    try {
-        const result = await redisClient.HGETALL(key);
-        //console.log(result);
-        const releases = Object.values(result).reduce((acc, curr) => {
-            const parsedData = JSON.parse(curr);
-            acc.push(...parsedData);
-            return acc;
-        }, []);
-
-        // Sort releases by datetime field in reverse chronological order
-        releases.sort((a, b) => new Date(b.datetime) - new Date(a.datetime));
-
-        //console.log("Flattened and sorted releases:", releases);
-
-        return releases;
-    } catch (error) {
-        console.error("Error occurred:", error);
-        throw error;
-    }
-}
-
 nextApp.prepare().then(() => {
     const server = express();
     server.enable("trust proxy");
@@ -205,9 +184,9 @@ nextApp.prepare().then(() => {
                 ":" +
                 https_port +
                 req.url;
-            console.log(
-                `${formatCurrentDateTime()} - Redirecting to Https Url: ${https_url}`
-            );
+            // console.log(
+            //     `${formatCurrentDateTime()} - Redirecting to Https Url: ${https_url}`
+            // );
             res.redirect(https_url);
         }
     });
@@ -237,7 +216,7 @@ nextApp.prepare().then(() => {
     wsServer.use(sharedsession(session));
 
     // Setup Redis adapter for Socket.IO
-    wsServer.adapter(createAdapter(redisClient, redisSubscriber));
+    //wsServer.adapter(createAdapter(redisClient, redisSubscriber));
 
     wsServer.on("connection", (socket) => {
         console.log(
