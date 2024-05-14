@@ -24,60 +24,6 @@ export default function Header() {
                             </div>
                         </div>
                     ) : (
-                        <>
-                            {isConnected ? (
-                                <TooltipProvider>
-                                    <TooltipTrigger asChild>
-                                        <div className="flex flex-row gap-2 justify-center items-center">
-                                            <Lock
-                                                className="w-4 h-4"
-                                                color="#96d35f"
-                                            />
-                                            <div className="text-sm font-medium text-muted-foreground">
-                                                Connected
-                                            </div>
-                                        </div>
-                                    </TooltipTrigger>
-                                    <TooltipContent>
-                                        <p>
-                                            Connected to recieve real-time
-                                            updates
-                                        </p>
-                                    </TooltipContent>
-                                </TooltipProvider>
-                            ) : (
-                                <Tooltip>
-                                    <TooltipTrigger asChild>
-                                        <div className="flex flex-row gap-2 justify-center items-center">
-                                            <XCircle
-                                                className="w-4 h-4"
-                                                color="#ff6251"
-                                            />
-                                            <div className="text-sm font-medium text-muted-foreground">
-                                                Disconnected
-                                            </div>
-                                        </div>
-                                    </TooltipTrigger>
-                                    <TooltipContent>
-                                        <p>Cannot recieve real-time updates</p>
-                                    </TooltipContent>
-                                </Tooltip>
-                            )}
-                        </>
-                    )}
-                    <ModeToggle />
-                </div><div className="flex flex-row gap-5">
-                    {isConnectionLoading ? (
-                        <div className="flex flex-row gap-2 justify-center items-center">
-                            <Loader
-                                className="w-4 h-4 animate-spin"
-                                color="#ffaa00"
-                            />
-                            <div className="text-sm font-medium text-muted-foreground">
-                                Connecting...
-                            </div>
-                        </div>
-                    ) : (
                         <TooltipProvider>
                             {isConnected ? (
                                 <Tooltip>
