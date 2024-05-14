@@ -1,6 +1,10 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import { ThemeProvider } from "@/components/theme-provider"
+import Aside from "@/components/aside";
+import Header from "@/components/header";
+import Providers from "@/components/providers";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -16,7 +20,31 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <Providers>
+          {/* <header className="w-full h-16 border-b-2 px-4 py-2"></header>
+          <main className="w-full flex flex-1">
+            {children}
+          </main> */}
+          <Layout withSidebar={true}>{children}</Layout>
+        </Providers>
+      </body>
     </html>
   );
 }
+interface LayoutProps {
+  children: React.ReactNode;  // Typing children explicitly
+  withSidebar?: boolean;      // Optional prop, also explicitly typed
+}
+
+const Layout: React.FC<LayoutProps> = ({ children, withSidebar = false }) => {
+  return (
+    <div className="flex flex-col min-h-screen">
+      <Header />
+      <div className="flex-1 flex flex-row">
+        {withSidebar && <Aside />}
+        <main className="w-full flex-1">{children}</main>
+      </div>
+    </div>
+  );
+};
