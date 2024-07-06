@@ -21,7 +21,7 @@ const Providers = ({ children, withSidebar = false }: { children: React.ReactNod
                 disableTransitionOnChange
             >
                 <SocketProvider>
-                    <div className="flex flex-col min-h-screen">
+                    <div className="flex flex-col min-h-screen text-sm md:text-base">
                         <Header />
                         <div className="flex-1 flex flex-row">
                             {withSidebar && <Aside />}

@@ -1,0 +1,772 @@
+{
+    "values": [
+        {
+            "time_period": "2023-04-05 00:00:00 to 2023-04-05 00:15:00",
+            "grid_energy_consumption": 0.15,
+            "solar_energy_production": 0,
+            "energy_used": 0.15,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 00:15:00 to 2023-04-05 00:30:00",
+            "grid_energy_consumption": 0.16,
+            "solar_energy_production": 0,
+            "energy_used": 0.16,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 00:30:00 to 2023-04-05 00:45:00",
+            "grid_energy_consumption": 0.13,
+            "solar_energy_production": 0,
+            "energy_used": 0.13,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 00:45:00 to 2023-04-05 01:00:00",
+            "grid_energy_consumption": 0.05,
+            "solar_energy_production": 0,
+            "energy_used": 0.05,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 01:00:00 to 2023-04-05 01:15:00",
+            "grid_energy_consumption": 0.06,
+            "solar_energy_production": 0,
+            "energy_used": 0.06,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 01:15:00 to 2023-04-05 01:30:00",
+            "grid_energy_consumption": 0.08,
+            "solar_energy_production": 0,
+            "energy_used": 0.08,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 01:30:00 to 2023-04-05 01:45:00",
+            "grid_energy_consumption": 0.09,
+            "solar_energy_production": 0,
+            "energy_used": 0.09,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 01:45:00 to 2023-04-05 02:00:00",
+            "grid_energy_consumption": 0.06,
+            "solar_energy_production": 0,
+            "energy_used": 0.06,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 02:00:00 to 2023-04-05 02:15:00",
+            "grid_energy_consumption": 0.1,
+            "solar_energy_production": 0,
+            "energy_used": 0.1,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 02:15:00 to 2023-04-05 02:30:00",
+            "grid_energy_consumption": 0.09,
+            "solar_energy_production": 0,
+            "energy_used": 0.09,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 02:30:00 to 2023-04-05 02:45:00",
+            "grid_energy_consumption": 0.08,
+            "solar_energy_production": 0,
+            "energy_used": 0.08,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 02:45:00 to 2023-04-05 03:00:00",
+            "grid_energy_consumption": 0.06,
+            "solar_energy_production": 0,
+            "energy_used": 0.06,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 03:00:00 to 2023-04-05 03:15:00",
+            "grid_energy_consumption": 0.1,
+            "solar_energy_production": 0,
+            "energy_used": 0.1,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 03:15:00 to 2023-04-05 03:30:00",
+            "grid_energy_consumption": 0.09,
+            "solar_energy_production": 0,
+            "energy_used": 0.09,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 03:30:00 to 2023-04-05 03:45:00",
+            "grid_energy_consumption": 0.09,
+            "solar_energy_production": 0,
+            "energy_used": 0.09,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 03:45:00 to 2023-04-05 04:00:00",
+            "grid_energy_consumption": 0.06,
+            "solar_energy_production": 0,
+            "energy_used": 0.06,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 04:00:00 to 2023-04-05 04:15:00",
+            "grid_energy_consumption": 0.11,
+            "solar_energy_production": 0,
+            "energy_used": 0.11,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 04:15:00 to 2023-04-05 04:30:00",
+            "grid_energy_consumption": 0.09,
+            "solar_energy_production": 0,
+            "energy_used": 0.09,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 04:30:00 to 2023-04-05 04:45:00",
+            "grid_energy_consumption": 0.07,
+            "solar_energy_production": 0,
+            "energy_used": 0.07,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 04:45:00 to 2023-04-05 05:00:00",
+            "grid_energy_consumption": 0.07,
+            "solar_energy_production": 0,
+            "energy_used": 0.07,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 05:00:00 to 2023-04-05 05:15:00",
+            "grid_energy_consumption": 0.1,
+            "solar_energy_production": 0,
+            "energy_used": 0.1,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 05:15:00 to 2023-04-05 05:30:00",
+            "grid_energy_consumption": 0.08,
+            "solar_energy_production": 0,
+            "energy_used": 0.08,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 05:30:00 to 2023-04-05 05:45:00",
+            "grid_energy_consumption": 0.08,
+            "solar_energy_production": 0,
+            "energy_used": 0.08,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 05:45:00 to 2023-04-05 06:00:00",
+            "grid_energy_consumption": 0.07,
+            "solar_energy_production": 0,
+            "energy_used": 0.07,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 06:00:00 to 2023-04-05 06:15:00",
+            "grid_energy_consumption": 0.1,
+            "solar_energy_production": 0,
+            "energy_used": 0.1,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 06:15:00 to 2023-04-05 06:30:00",
+            "grid_energy_consumption": 0.08,
+            "solar_energy_production": 0,
+            "energy_used": 0.08,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 06:30:00 to 2023-04-05 06:45:00",
+            "grid_energy_consumption": 0.07,
+            "solar_energy_production": 0,
+            "energy_used": 0.07,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 06:45:00 to 2023-04-05 07:00:00",
+            "grid_energy_consumption": 0.06,
+            "solar_energy_production": 0,
+            "energy_used": 0.06,
+            "solar_sent_to_grid": 0,
+            "temp": 47
+        },
+        {
+            "time_period": "2023-04-05 07:00:00 to 2023-04-05 07:15:00",
+            "grid_energy_consumption": 0.02,
+            "solar_energy_production": 0,
+            "energy_used": 0.02,
+            "solar_sent_to_grid": 0,
+            "temp": 49
+        },
+        {
+            "time_period": "2023-04-05 07:15:00 to 2023-04-05 07:30:00",
+            "grid_energy_consumption": 0.01,
+            "solar_energy_production": 0,
+            "energy_used": 0.01,
+            "solar_sent_to_grid": 0,
+            "temp": 49
+        },
+        {
+            "time_period": "2023-04-05 07:30:00 to 2023-04-05 07:45:00",
+            "grid_energy_consumption": 0.02,
+            "solar_energy_production": 0,
+            "energy_used": 0.02,
+            "solar_sent_to_grid": 0,
+            "temp": 49
+        },
+        {
+            "time_period": "2023-04-05 07:45:00 to 2023-04-05 08:00:00",
+            "grid_energy_consumption": 0.03,
+            "solar_energy_production": 0,
+            "energy_used": 0.03,
+            "solar_sent_to_grid": 0,
+            "temp": 49
+        },
+        {
+            "time_period": "2023-04-05 08:00:00 to 2023-04-05 08:15:00",
+            "grid_energy_consumption": 0.04,
+            "solar_energy_production": 0,
+            "energy_used": 0.04,
+            "solar_sent_to_grid": 0,
+            "temp": 49
+        },
+        {
+            "time_period": "2023-04-05 08:15:00 to 2023-04-05 08:30:00",
+            "grid_energy_consumption": 0.03,
+            "solar_energy_production": 0,
+            "energy_used": 0.03,
+            "solar_sent_to_grid": 0,
+            "temp": 49
+        },
+        {
+            "time_period": "2023-04-05 08:30:00 to 2023-04-05 08:45:00",
+            "grid_energy_consumption": 0.04,
+            "solar_energy_production": 0,
+            "energy_used": 0.04,
+            "solar_sent_to_grid": 0,
+            "temp": 49
+        },
+        {
+            "time_period": "2023-04-05 08:45:00 to 2023-04-05 09:00:00",
+            "grid_energy_consumption": 0.05,
+            "solar_energy_production": 0,
+            "energy_used": 0.05,
+            "solar_sent_to_grid": 0,
+            "temp": 49
+        },
+        {
+            "time_period": "2023-04-05 09:00:00 to 2023-04-05 09:15:00",
+            "grid_energy_consumption": 0.04,
+            "solar_energy_production": 0,
+            "energy_used": 0.04,
+            "solar_sent_to_grid": 0,
+            "temp": 50
+        },
+        {
+            "time_period": "2023-04-05 09:15:00 to 2023-04-05 09:30:00",
+            "grid_energy_consumption": 0.03,
+            "solar_energy_production": 0,
+            "energy_used": 0.03,
+            "solar_sent_to_grid": 0,
+            "temp": 50
+        },
+        {
+            "time_period": "2023-04-05 09:30:00 to 2023-04-05 09:45:00",
+            "grid_energy_consumption": 0.04,
+            "solar_energy_production": 0,
+            "energy_used": 0.04,
+            "solar_sent_to_grid": 0,
+            "temp": 50
+        },
+        {
+            "time_period": "2023-04-05 09:45:00 to 2023-04-05 10:00:00",
+            "grid_energy_consumption": 0.05,
+            "solar_energy_production": 0,
+            "energy_used": 0.05,
+            "solar_sent_to_grid": 0,
+            "temp": 50
+        },
+        {
+            "time_period": "2023-04-05 10:00:00 to 2023-04-05 10:15:00",
+            "grid_energy_consumption": 0.06,
+            "solar_energy_production": 0,
+            "energy_used": 0.06,
+            "solar_sent_to_grid": 0,
+            "temp": 50
+        },
+        {
+            "time_period": "2023-04-05 10:15:00 to 2023-04-05 10:30:00",
+            "grid_energy_consumption": 0.07,
+            "solar_energy_production": 0,
+            "energy_used": 0.07,
+            "solar_sent_to_grid": 0,
+            "temp": 50
+        },
+        {
+            "time_period": "2023-04-05 10:30:00 to 2023-04-05 10:45:00",
+            "grid_energy_consumption": 0.08,
+            "solar_energy_production": 0,
+            "energy_used": 0.08,
+            "solar_sent_to_grid": 0,
+            "temp": 50
+        },
+        {
+            "time_period": "2023-04-05 10:45:00 to 2023-04-05 11:00:00",
+            "grid_energy_consumption": 0.09,
+            "solar_energy_production": 0,
+            "energy_used": 0.09,
+            "solar_sent_to_grid": 0,
+            "temp": 50
+        },
+        {
+            "time_period": "2023-04-05 11:00:00 to 2023-04-05 11:15:00",
+            "grid_energy_consumption": 0.08,
+            "solar_energy_production": 0,
+            "energy_used": 0.08,
+            "solar_sent_to_grid": 0,
+            "temp": 51
+        },
+        {
+            "time_period": "2023-04-05 11:15:00 to 2023-04-05 11:30:00",
+            "grid_energy_consumption": 0.07,
+            "solar_energy_production": 0,
+            "energy_used": 0.07,
+            "solar_sent_to_grid": 0,
+            "temp": 51
+        },
+        {
+            "time_period": "2023-04-05 11:30:00 to 2023-04-05 11:45:00",
+            "grid_energy_consumption": 0.08,
+            "solar_energy_production": 0,
+            "energy_used": 0.08,
+            "solar_sent_to_grid": 0,
+            "temp": 51
+        },
+        {
+            "time_period": "2023-04-05 11:45:00 to 2023-04-05 12:00:00",
+            "grid_energy_consumption": 0.07,
+            "solar_energy_production": 0,
+            "energy_used": 0.07,
+            "solar_sent_to_grid": 0,
+            "temp": 51
+        },
+        {
+            "time_period": "2023-04-05 12:00:00 to 2023-04-05 12:15:00",
+            "grid_energy_consumption": 0.06,
+            "solar_energy_production": 0,
+            "energy_used": 0.06,
+            "solar_sent_to_grid": 0,
+            "temp": 51
+        },
+        {
+            "time_period": "2023-04-05 12:15:00 to 2023-04-05 12:30:00",
+            "grid_energy_consumption": 0.05,
+            "solar_energy_production": 0,
+            "energy_used": 0.05,
+            "solar_sent_to_grid": 0,
+            "temp": 51
+        },
+        {
+            "time_period": "2023-04-05 12:30:00 to 2023-04-05 12:45:00",
+            "grid_energy_consumption": 0.04,
+            "solar_energy_production": 0,
+            "energy_used": 0.04,
+            "solar_sent_to_grid": 0,
+            "temp": 51
+        },
+        {
+            "time_period": "2023-04-05 12:45:00 to 2023-04-05 13:00:00",
+            "grid_energy_consumption": 0.05,
+            "solar_energy_production": 0,
+            "energy_used": 0.05,
+            "solar_sent_to_grid": 0,
+            "temp": 51
+        },
+        {
+            "time_period": "2023-04-05 13:00:00 to 2023-04-05 13:15:00",
+            "grid_energy_consumption": 0.06,
+            "solar_energy_production": 0,
+            "energy_used": 0.06,
+            "solar_sent_to_grid": 0,
+            "temp": 52
+        },
+        {
+            "time_period": "2023-04-05 13:15:00 to 2023-04-05 13:30:00",
+            "grid_energy_consumption": 0.07,
+            "solar_energy_production": 0,
+            "energy_used": 0.07,
+            "solar_sent_to_grid": 0,
+            "temp": 52
+        },
+        {
+            "time_period": "2023-04-05 13:30:00 to 2023-04-05 13:45:00",
+            "grid_energy_consumption": 0.08,
+            "solar_energy_production": 0,
+            "energy_used": 0.08,
+            "solar_sent_to_grid": 0,
+            "temp": 52
+        },
+        {
+            "time_period": "2023-04-05 13:45:00 to 2023-04-05 14:00:00",
+            "grid_energy_consumption": 0.09,
+            "solar_energy_production": 0,
+            "energy_used": 0.09,
+            "solar_sent_to_grid": 0,
+            "temp": 52
+        },
+        {
+            "time_period": "2023-04-05 14:00:00 to 2023-04-05 14:15:00",
+            "grid_energy_consumption": 0.1,
+            "solar_energy_production": 0,
+            "energy_used": 0.1,
+            "solar_sent_to_grid": 0,
+            "temp": 53
+        },
+        {
+            "time_period": "2023-04-05 14:15:00 to 2023-04-05 14:30:00",
+            "grid_energy_consumption": 0.09,
+            "solar_energy_production": 0,
+            "energy_used": 0.09,
+            "solar_sent_to_grid": 0,
+            "temp": 53
+        },
+        {
+            "time_period": "2023-04-05 14:30:00 to 2023-04-05 14:45:00",
+            "grid_energy_consumption": 0.1,
+            "solar_energy_production": 0,
+            "energy_used": 0.1,
+            "solar_sent_to_grid": 0,
+            "temp": 53
+        },
+        {
+            "time_period": "2023-04-05 14:45:00 to 2023-04-05 15:00:00",
+            "grid_energy_consumption": 0.09,
+            "solar_energy_production": 0,
+            "energy_used": 0.09,
+            "solar_sent_to_grid": 0,
+            "temp": 53
+        },
+        {
+            "time_period": "2023-04-05 15:00:00 to 2023-04-05 15:15:00",
+            "grid_energy_consumption": 0.08,
+            "solar_energy_production": 0,
+            "energy_used": 0.08,
+            "solar_sent_to_grid": 0,
+            "temp": 53
+        },
+        {
+            "time_period": "2023-04-05 15:15:00 to 2023-04-05 15:30:00",
+            "grid_energy_consumption": 0.07,
+            "solar_energy_production": 0,
+            "energy_used": 0.07,
+            "solar_sent_to_grid": 0,
+            "temp": 53
+        },
+        {
+            "time_period": "2023-04-05 15:30:00 to 2023-04-05 15:45:00",
+            "grid_energy_consumption": 0.06,
+            "solar_energy_production": 0,
+            "energy_used": 0.06,
+            "solar_sent_to_grid": 0,
+            "temp": 53
+        },
+        {
+            "time_period": "2023-04-05 15:45:00 to 2023-04-05 16:00:00",
+            "grid_energy_consumption": 0.07,
+            "solar_energy_production": 0,
+            "energy_used": 0.07,
+            "solar_sent_to_grid": 0,
+            "temp": 53
+        },
+        {
+            "time_period": "2023-04-05 16:00:00 to 2023-04-05 16:15:00",
+            "grid_energy_consumption": 0.01,
+            "solar_energy_production": 0,
+            "energy_used": 0.01,
+            "solar_sent_to_grid": 0,
+            "temp": 54
+        },
+        {
+            "time_period": "2023-04-05 16:15:00 to 2023-04-05 16:30:00",
+            "grid_energy_consumption": 0.02,
+            "solar_energy_production": 0,
+            "energy_used": 0.02,
+            "solar_sent_to_grid": 0,
+            "temp": 54
+        },
+        {
+            "time_period": "2023-04-05 16:30:00 to 2023-04-05 16:45:00",
+            "grid_energy_consumption": 0.03,
+            "solar_energy_production": 0,
+            "energy_used": 0.03,
+            "solar_sent_to_grid": 0,
+            "temp": 54
+        },
+        {
+            "time_period": "2023-04-05 16:45:00 to 2023-04-05 17:00:00",
+            "grid_energy_consumption": 0.04,
+            "solar_energy_production": 0,
+            "energy_used": 0.04,
+            "solar_sent_to_grid": 0,
+            "temp": 54
+        },
+        {
+            "time_period": "2023-04-05 17:00:00 to 2023-04-05 17:15:00",
+            "grid_energy_consumption": 0.05,
+            "solar_energy_production": 0,
+            "energy_used": 0.05,
+            "solar_sent_to_grid": 0,
+            "temp": 55
+        },
+        {
+            "time_period": "2023-04-05 17:15:00 to 2023-04-05 17:30:00",
+            "grid_energy_consumption": 0.02,
+            "solar_energy_production": 0,
+            "energy_used": 0.02,
+            "solar_sent_to_grid": 0,
+            "temp": 55
+        },
+        {
+            "time_period": "2023-04-05 17:30:00 to 2023-04-05 17:45:00",
+            "grid_energy_consumption": 0.07,
+            "solar_energy_production": 0,
+            "energy_used": 0.07,
+            "solar_sent_to_grid": 0,
+            "temp": 55
+        },
+        {
+            "time_period": "2023-04-05 17:45:00 to 2023-04-05 18:00:00",
+            "grid_energy_consumption": 0.07,
+            "solar_energy_production": 0,
+            "energy_used": 0.07,
+            "solar_sent_to_grid": 0,
+            "temp": 55
+        },
+        {
+            "time_period": "2023-04-05 18:00:00 to 2023-04-05 18:15:00",
+            "grid_energy_consumption": 0.08,
+            "solar_energy_production": 0,
+            "energy_used": 0.08,
+            "solar_sent_to_grid": 0,
+            "temp": 55
+        },
+        {
+            "time_period": "2023-04-05 18:15:00 to 2023-04-05 18:30:00",
+            "grid_energy_consumption": 0.08,
+            "solar_energy_production": 0,
+            "energy_used": 0.08,
+            "solar_sent_to_grid": 0,
+            "temp": 55
+        },
+        {
+            "time_period": "2023-04-05 18:30:00 to 2023-04-05 18:45:00",
+            "grid_energy_consumption": 0.16,
+            "solar_energy_production": 0,
+            "energy_used": 0.16,
+            "solar_sent_to_grid": 0,
+            "temp": 55
+        },
+        {
+            "time_period": "2023-04-05 18:45:00 to 2023-04-05 19:00:00",
+            "grid_energy_consumption": 0.97,
+            "solar_energy_production": 0,
+            "energy_used": 0.97,
+            "solar_sent_to_grid": 0,
+            "temp": 55
+        },
+        {
+            "time_period": "2023-04-05 19:00:00 to 2023-04-05 19:15:00",
+            "grid_energy_consumption": 0.32,
+            "solar_energy_production": 0,
+            "energy_used": 0.32,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 19:15:00 to 2023-04-05 19:30:00",
+            "grid_energy_consumption": 0.41,
+            "solar_energy_production": 0,
+            "energy_used": 0.41,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 19:30:00 to 2023-04-05 19:45:00",
+            "grid_energy_consumption": 0.39,
+            "solar_energy_production": 0,
+            "energy_used": 0.39,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 19:45:00 to 2023-04-05 20:00:00",
+            "grid_energy_consumption": 0.4,
+            "solar_energy_production": 0,
+            "energy_used": 0.4,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 20:00:00 to 2023-04-05 20:15:00",
+            "grid_energy_consumption": 0.33,
+            "solar_energy_production": 0,
+            "energy_used": 0.33,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 20:15:00 to 2023-04-05 20:30:00",
+            "grid_energy_consumption": 0.13,
+            "solar_energy_production": 0,
+            "energy_used": 0.13,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 20:30:00 to 2023-04-05 20:45:00",
+            "grid_energy_consumption": 0.15,
+            "solar_energy_production": 0,
+            "energy_used": 0.15,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 20:45:00 to 2023-04-05 21:00:00",
+            "grid_energy_consumption": 0.55,
+            "solar_energy_production": 0,
+            "energy_used": 0.55,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 21:00:00 to 2023-04-05 21:15:00",
+            "grid_energy_consumption": 0.16,
+            "solar_energy_production": 0,
+            "energy_used": 0.16,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 21:15:00 to 2023-04-05 21:30:00",
+            "grid_energy_consumption": 0.18,
+            "solar_energy_production": 0,
+            "energy_used": 0.18,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 21:30:00 to 2023-04-05 21:45:00",
+            "grid_energy_consumption": 0.16,
+            "solar_energy_production": 0,
+            "energy_used": 0.16,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 21:45:00 to 2023-04-05 22:00:00",
+            "grid_energy_consumption": 0.15,
+            "solar_energy_production": 0,
+            "energy_used": 0.15,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 22:00:00 to 2023-04-05 22:15:00",
+            "grid_energy_consumption": 0.13,
+            "solar_energy_production": 0,
+            "energy_used": 0.13,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 22:15:00 to 2023-04-05 22:30:00",
+            "grid_energy_consumption": 0.15,
+            "solar_energy_production": 0,
+            "energy_used": 0.15,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 22:30:00 to 2023-04-05 22:45:00",
+            "grid_energy_consumption": 0.29,
+            "solar_energy_production": 0,
+            "energy_used": 0.29,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 22:45:00 to 2023-04-05 23:00:00",
+            "grid_energy_consumption": 0.21,
+            "solar_energy_production": 0,
+            "energy_used": 0.21,
+            "solar_sent_to_grid": 0,
+            "temp": 56
+        },
+        {
+            "time_period": "2023-04-05 23:00:00 to 2023-04-05 23:15:00",
+            "grid_energy_consumption": 0.16,
+            "solar_energy_production": 0,
+            "energy_used": 0.16,
+            "solar_sent_to_grid": 0,
+            "temp": 57
+        },
+        {
+            "time_period": "2023-04-05 23:15:00 to 2023-04-05 23:30:00",
+            "grid_energy_consumption": 0.14,
+            "solar_energy_production": 0,
+            "energy_used": 0.14,
+            "solar_sent_to_grid": 0,
+            "temp": 57
+        },
+        {
+            "time_period": "2023-04-05 23:30:00 to 2023-04-05 23:45:00",
+            "grid_energy_consumption": 0.11,
+            "solar_energy_production": 0,
+            "energy_used": 0.11,
+            "solar_sent_to_grid": 0,
+            "temp": 57
+        },
+        {
+            "time_period": "2023-04-05 23:45:00 to 2023-04-06 00:00:00",
+            "grid_energy_consumption": 0.15,
+            "solar_energy_production": 0,
+            "energy_used": 0.15,
+            "solar_sent_to_grid": 0,
+            "temp": 57
+        }
+    ]
+}

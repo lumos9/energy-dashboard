@@ -4,18 +4,17 @@ import CustomTooltip from '@/components/custom-tooltip';
 import { CalendarDateRangePicker } from '@/components/date-range-picker';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import UsageGraph from '@/components/usage-graph';
+import { UsageGraph } from '@/components/usage-graph';
 import React, { PureComponent } from 'react';
 import data from '../../public/data.json';  // Adjust the path as necessary
 
-
 export default function Home() {
   const cumulativeSum_from_grid = data.values.reduce((accumulator, current) => {
-    return accumulator + current.grid_energy_consumption;
+    return accumulator + 0 //current.grid_energy_consumption;
   }, 0); // The initial value of the accumulator is 0
 
   const cumulativeSum_to_grid = data.values.reduce((accumulator, current) => {
-    return accumulator + current.solar_sent_to_grid;
+    return accumulator + 0 //current.solar_sent_to_grid;
   }, 0); // The initial value of the accumulator is 0
   return (
     <div className='w-full flex flex-col p-4 md:p-8 gap-8'>
@@ -108,14 +107,7 @@ export default function Home() {
           </CardContent>
         </Card>
       </div>
-      <Card className="w-full col-span-4">
-        <CardHeader>
-          <CardTitle>Energy Usage</CardTitle>
-        </CardHeader>
-        <CardContent className='pl-2'>
-          <UsageGraph data={data} />
-        </CardContent>
-      </Card>
+      <UsageGraph chartData={data.values} />
     </div>
   )
 }
